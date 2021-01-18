@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<preferences>
+  <category name="keyboard">
+    <preference name="Channel.#0.Range.Previous" value="D1" />
+    <preference name="Channel.#0.Range.Next" value="Q" />
+    <preference name="Channel.#0.Coupling.Next" value="A" />
+    <preference name="Channel.#0.LowPassCutoff.Decrement" value="Q, Alt" />
+    <preference name="Channel.#0.Offset.Reset" value="A, Shift" />
+    <preference name="Channel.#0.Offset.Decrement" value="Q, Shift" />
+    <preference name="Channel.#0.Zoom.Increment" value="D1, Control" />
+    <preference name="Channel.#0.LowPassCutoff.Increment" value="D1, Alt" />
+    <preference name="Channel.#0.Zoom.Decrement" value="Q, Control" />
+    <preference name="Channel.#0.Zoom.Reset" value="A, Control" />
+    <preference name="Channel.#0.Offset.Increment" value="D1, Shift" />
+    <preference name="Channel.#0.LowPass.Enable.Toggle" value="A, Alt" />
+    <preference name="Channel.#1.Range.Previous" value="D2" />
+    <preference name="Channel.#1.Range.Next" value="W" />
+    <preference name="Channel.#1.Coupling.Next" value="S" />
+    <preference name="Channel.#1.LowPassCutoff.Decrement" value="W, Alt" />
+    <preference name="Channel.#1.Offset.Reset" value="S, Shift" />
+    <preference name="Channel.#1.Offset.Decrement" value="W, Shift" />
+    <preference name="Channel.#1.Zoom.Increment" value="D2, Control" />
+    <preference name="Channel.#1.LowPassCutoff.Increment" value="D2, Alt" />
+    <preference name="Channel.#1.Zoom.Decrement" value="W, Control" />
+    <preference name="Channel.#1.Zoom.Reset" value="S, Control" />
+    <preference name="Channel.#1.Offset.Increment" value="D2, Shift" />
+    <preference name="Channel.#1.LowPass.Enable.Toggle" value="S, Alt" />
+    <preference name="Channel.#2.Range.Previous" value="D3" />
+    <preference name="Channel.#2.Range.Next" value="E" />
+    <preference name="Channel.#2.Coupling.Next" value="D" />
+    <preference name="Channel.#2.LowPassCutoff.Decrement" value="E, Alt" />
+    <preference name="Channel.#2.Offset.Reset" value="D, Shift" />
+    <preference name="Channel.#2.Offset.Decrement" value="E, Shift" />
+    <preference name="Channel.#2.Zoom.Increment" value="D3, Control" />
+    <preference name="Channel.#2.LowPassCutoff.Increment" value="D3, Alt" />
+    <preference name="Channel.#2.Zoom.Decrement" value="E, Control" />
+    <preference name="Channel.#2.Zoom.Reset" value="D, Control" />
+    <preference name="Channel.#2.Offset.Increment" value="D3, Shift" />
+    <preference name="Channel.#2.LowPass.Enable.Toggle" value="D, Alt" />
+    <preference name="Channel.#3.Range.Previous" value="D4" />
+    <preference name="Channel.#3.Range.Next" value="R" />
+    <preference name="Channel.#3.Coupling.Next" value="F" />
+    <preference name="Channel.#3.LowPassCutoff.Decrement" value="R, Alt" />
+    <preference name="Channel.#3.Offset.Reset" value="F, Shift" />
+    <preference name="Channel.#3.Offset.Decrement" value="R, Shift" />
+    <preference name="Channel.#3.Zoom.Increment" value="D4, Control" />
+    <preference name="Channel.#3.LowPassCutoff.Increment" value="D4, Alt" />
+    <preference name="Channel.#3.Zoom.Decrement" value="R, Control" />
+    <preference name="Channel.#3.Zoom.Reset" value="F, Control" />
+    <preference name="Channel.#3.Offset.Increment" value="D4, Shift" />
+    <preference name="Channel.#3.LowPass.Enable.Toggle" value="F, Alt" />
+    <preference name="Channel.#4.Range.Previous" value="D5" />
+    <preference name="Channel.#4.Range.Next" value="T" />
+    <preference name="Channel.#4.Coupling.Next" value="G" />
+    <preference name="Channel.#4.LowPassCutoff.Decrement" value="T, Alt" />
+    <preference name="Channel.#4.Offset.Reset" value="G, Shift" />
+    <preference name="Channel.#4.Offset.Decrement" value="T, Shift" />
+    <preference name="Channel.#4.Zoom.Increment" value="D5, Control" />
+    <preference name="Channel.#4.LowPassCutoff.Increment" value="D5, Alt" />
+    <preference name="Channel.#4.Zoom.Decrement" value="T, Control" />
+    <preference name="Channel.#4.Zoom.Reset" value="G, Control" />
+    <preference name="Channel.#4.Offset.Increment" value="D5, Shift" />
+    <preference name="Channel.#4.LowPass.Enable.Toggle" value="G, Alt" />
+    <preference name="Channel.#5.Range.Previous" value="D6" />
+    <preference name="Channel.#5.Range.Next" value="Y" />
+    <preference name="Channel.#5.Coupling.Next" value="H" />
+    <preference name="Channel.#5.LowPassCutoff.Decrement" value="Y, Alt" />
+    <preference name="Channel.#5.Offset.Reset" value="H, Shift" />
+    <preference name="Channel.#5.Offset.Decrement" value="Y, Shift" />
+    <preference name="Channel.#5.Zoom.Increment" value="D6, Control" />
+    <preference name="Channel.#5.LowPassCutoff.Increment" value="D6, Alt" />
+    <preference name="Channel.#5.Zoom.Decrement" value="Y, Control" />
+    <preference name="Channel.#5.Zoom.Reset" value="H, Control" />
+    <preference name="Channel.#5.Offset.Increment" value="D6, Shift" />
+    <preference name="Channel.#5.LowPass.Enable.Toggle" value="H, Alt" />
+    <preference name="Channel.#6.Range.Previous" value="D7" />
+    <preference name="Channel.#6.Range.Next" value="U" />
+    <preference name="Channel.#6.Coupling.Next" value="J" />
+    <preference name="Channel.#6.LowPassCutoff.Decrement" value="U, Alt" />
+    <preference name="Channel.#6.Offset.Reset" value="J, Shift" />
+    <preference name="Channel.#6.Offset.Decrement" value="U, Shift" />
+    <preference name="Channel.#6.Zoom.Increment" value="D7, Control" />
+    <preference name="Channel.#6.LowPassCutoff.Increment" value="D7, Alt" />
+    <preference name="Channel.#6.Zoom.Decrement" value="U, Control" />
+    <preference name="Channel.#6.Zoom.Reset" value="J, Control" />
+    <preference name="Channel.#6.Offset.Increment" value="D7, Shift" />
+    <preference name="Channel.#6.LowPass.Enable.Toggle" value="J, Alt" />
+    <preference name="Channel.#7.Range.Previous" value="D8" />
+    <preference name="Channel.#7.Range.Next" value="I" />
+    <preference name="Channel.#7.Coupling.Next" value="K" />
+    <preference name="Channel.#7.LowPassCutoff.Decrement" value="I, Alt" />
+    <preference name="Channel.#7.Offset.Reset" value="K, Shift" />
+    <preference name="Channel.#7.Offset.Decrement" value="I, Shift" />
+    <preference name="Channel.#7.Zoom.Increment" value="D8, Control" />
+    <preference name="Channel.#7.LowPassCutoff.Increment" value="D8, Alt" />
+    <preference name="Channel.#7.Zoom.Decrement" value="I, Control" />
+    <preference name="Channel.#7.Zoom.Reset" value="K, Control" />
+    <preference name="Channel.#7.Offset.Increment" value="D8, Shift" />
+    <preference name="Channel.#7.LowPass.Enable.Toggle" value="K, Alt" />
+    <preference name="Spectrum.Scale.Next" value="P" />
+    <preference name="Siggen.Amplitude.Decrement" value="O" />
+    <preference name="Trigger.PreTrigger.Increment" value="M" />
+    <preference name="Trigger.TriggerSource.Next" value="X" />
+    <preference name="Trigger.TriggerMode.Next" value="Z" />
+    <preference name="Trigger.PreTrigger.Decrement" value="N" />
+    <preference name="Trigger.Threshold.Decrement" value="B" />
+    <preference name="Trigger.Threshold.Increment" value="V" />
+    <preference name="Trigger.Edge.Toggle" value="C" />
+    <preference name="NumberOfSamples.Decrement" value="Left" />
+    <preference name="NumberOfSamples.Increment" value="Right" />
+    <preference name="CollectionTime.Next" value="F2, Control" />
+    <preference name="CollectionTime.Previous" value="F3, Control" />
+    <preference name="Buffer.Previous" value="Left, Shift" />
+    <preference name="Buffer.Next" value="Right, Shift" />
+    <preference name="AutoSetup.AutoSetup" value="F2" />
+    <preference name="View.ArrangeAxes" value="F5" />
+    <preference name="Siggen.Enabled.Toggle" value="F6" />
+    <preference name="Tools.Home" value="F3" />
+    <preference name="Tools.Pan" value="N, Control" />
+    <preference name="Tools.ZoomIn" value="P, Control" />
+    <preference name="Tools.ZoomOut" value="O, Control" />
+    <preference name="Tools.Select" value="Escape" />
+    <preference name="Tools.Zoom.FullSize" value="F4" />
+    <preference name="Run" value="Space" />
+    <preference name="LoadFile.Next" value="Next" />
+    <preference name="LoadFile.Previous" value="PageUp" />
+    <preference name="Copy.AsImage" value="C, Control" />
+    <preference name="Channel.#0.Enabled.Clear" value="Q, Shift, Alt" />
+    <preference name="Channel.#0.Enabled" value="A, Shift, Alt" />
+    <preference name="Channel.#0.Enabled.Set" value="D1, Shift, Alt" />
+    <preference name="Channel.#1.Enabled.Clear" value="W, Shift, Alt" />
+    <preference name="Channel.#1.Enabled" value="S, Shift, Alt" />
+    <preference name="Channel.#1.Enabled.Set" value="D2, Shift, Alt" />
+    <preference name="Channel.#2.Enabled.Clear" value="E, Shift, Alt" />
+    <preference name="Channel.#2.Enabled" value="D, Shift, Alt" />
+    <preference name="Channel.#2.Enabled.Set" value="D3, Shift, Alt" />
+    <preference name="Channel.#3.Enabled.Clear" value="R, Shift, Alt" />
+    <preference name="Channel.#3.Enabled" value="F, Shift, Alt" />
+    <preference name="Channel.#3.Enabled.Set" value="D4, Shift, Alt" />
+    <preference name="Channel.#4.Enabled.Clear" value="T, Shift, Alt" />
+    <preference name="Channel.#4.Enabled" value="G, Shift, Alt" />
+    <preference name="Channel.#4.Enabled.Set" value="D5, Shift, Alt" />
+    <preference name="Channel.#5.Enabled.Clear" value="Y, Shift, Alt" />
+    <preference name="Channel.#5.Enabled" value="H, Shift, Alt" />
+    <preference name="Channel.#5.Enabled.Set" value="D6, Shift, Alt" />
+    <preference name="Channel.#6.Enabled.Clear" value="U, Shift, Alt" />
+    <preference name="Channel.#6.Enabled" value="J, Shift, Alt" />
+    <preference name="Channel.#6.Enabled.Set" value="D7, Shift, Alt" />
+    <preference name="Channel.#7.Enabled.Clear" value="I, Shift, Alt" />
+    <preference name="Channel.#7.Enabled" value="K, Shift, Alt" />
+    <preference name="Channel.#7.Enabled.Set" value="D8, Shift, Alt" />
+    <preference name="Instruments.Persistence" value="Z, Shift, Control" />
+    <preference name="Instruments.Scope" value="X, Shift, Control" />
+    <preference name="Instruments.Spectrum" value="C, Shift, Control" />
+    <preference name="Persistence.MinimumIntensity.Decrement" value="OemMinus, Shift, Control" />
+    <preference name="Persistence.MinimumIntensity.Increment" value="Oemplus, Shift, Control" />
+    <preference name="File.SaveAs" value="F12, Shift, Control" />
+    <preference name="Siggen.Enabled.Set" value="D9, Shift, Alt" />
+    <preference name="Siggen.Enabled.Clear" value="O, Shift, Alt" />
+    <preference name="Siggen.Amplitude.Increment" value="D9" />
+    <preference name="Siggen.Offset.Increment" value="D9, Shift" />
+    <preference name="Siggen.Offset.Decrement" value="O, Shift" />
+  </category>
+</preferences>
