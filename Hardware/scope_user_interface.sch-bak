@@ -13,7 +13,7 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 12650 1950 0    50   ~ 0
+Text Notes 4400 1600 0    50   ~ 0
 14 switches\n6 dials+switch\n18 LEDs\n--------\n20 normal GPIO\n12 interrupt GPIO\n1 led data out\n--------\n8 encoders\n17 buttons\n1 led strip\nusb\n1 spare
 $Comp
 L Device:Rotary_Encoder_Switch SW20

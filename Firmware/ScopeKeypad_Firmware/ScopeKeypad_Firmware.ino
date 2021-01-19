@@ -20,7 +20,7 @@ int hi_led[][3] = {{0,0,0},{0,0,0},{0,0,0},{0,0,0},{0,0,0},{0,0,0},{0,30,0},{0,0
 int output_buttons[5] = {PB0, PB1, PB3, PB4, PB5};
 int input_buttons[5] = {PB6, PB7, PB8, PB9, PB10};
 int encoderA_inputs[6] = {PA0, PA2, PA4, PA6, PA8, PA10};
-int encoderB_inputs[6] = {PA1, PA3, PA5, PB11, PA9, PA15};
+int encoderB_inputs[6] = {PA1, PA3, PB12, PB11, PA9, PA15};
 
 bool channelEnabled [9] = {0,0,0,0,0,0,0,0,0};
 char channelSelected = 0; //0 is nothing selected
@@ -258,9 +258,10 @@ void loop() {
           strip.setPixelColor(buttonToLed[j], strip.Color(0,0,0));
         }
       }
-      delay(250);
+      //delay(250);
       strip.show();
     }
+    delay(250);
   }
   /*
    * Vertical position = 0
