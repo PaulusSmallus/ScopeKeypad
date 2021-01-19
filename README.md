@@ -4,6 +4,8 @@ This project is to create a keypad for use with a PicoScope. The idea is to have
 ![image](ScopeKeypad_low_quality.JPG)
 https://youtu.be/zDIKAT928zg
 
+It uses an STM32 (arduino 'bluepill'). It acts as a keyboard, so pressing buttons or rotating dials just sends keyboard shortcuts to the PC.
+
 To use:
 
 Make circuit
@@ -50,3 +52,8 @@ upload shortcut settings to PicoScope software
 	
 	- Open 'picoscope_shortcuts.pskeys'
 	
+
+
+TODO:
+
+	- change keyboard shortcuts from using 'Alt', as this sometimes causes issues. Use 'Ctrl' and 'Shift' only.
