@@ -1,6 +1,8 @@
 # ScopeKeypad
 This project is to create a keypad for use with a PicoScope. The idea is to have a traditional interface to use with oscilloscope software.
 
+
+
 ![image](ScopeKeypad_low_quality.JPG)
 https://youtu.be/zDIKAT928zg
 
@@ -57,3 +59,11 @@ upload shortcut settings to PicoScope software
 TODO:
 
 	- change keyboard shortcuts from using 'Alt', as this sometimes causes issues. Use 'Ctrl' and 'Shift' only.
+
+How it all works:
+
+	The encoders are connected to hardware interrupts, which keep track of the position.
+	
+	The buttons are connected in a matrix.
+	
+	The firmware then checks for any changes, and sends keyboard shortcuts.
