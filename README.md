@@ -1,18 +1,18 @@
 # ScopeKeypad
-This project is to create a keypad for use with a PicoScope. The idea is to have a traditional interface to use with oscilloscope software.
-
+This project is to create a traditional oscilloscope interface to use with the PicoScope software (or more generally other usb scopes).
+It's useful for people who are more comfortable with traditional oscilloscope buttons and dials.
 
 
 ![image](ScopeKeypad_low_quality.JPG)
 https://youtu.be/zDIKAT928zg
 
-It uses an STM32 (arduino 'bluepill'). It acts as a keyboard, so pressing buttons or rotating dials just sends keyboard shortcuts to the PC.
+It uses an STM32 (arduino 'bluepill') as the main processor. It acts as a keyboard, so pressing buttons or rotating dials just sends keyboard shortcuts to the PC over USB.
 
 To use:
 
 Make circuit
 
-	- get the 'main_pcb' made. (in the Hardware/gerbers folder)
+	- get the 'main_pcb' made. (in the Hardware\gerbers folder)
 	
 	- get one of the 'front_panels' made. There is one for 7mm buttons, and one for 12mm buttons.
 	
@@ -52,7 +52,7 @@ upload shortcut settings to PicoScope software
 	
 	- Under 'Select keyboard map.', select 'import'
 	
-	- Open 'picoscope_shortcuts.pskeys'
+	- Open 'Software\picoscope_shortcuts.pskeys'
 	
 
 
