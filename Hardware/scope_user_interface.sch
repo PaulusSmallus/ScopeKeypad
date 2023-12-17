@@ -73,7 +73,7 @@ Text Label 2600 1700 2    50   ~ 0
 encoder2b
 Text Label 2600 1800 2    50   ~ 0
 encoder3a
-Text Label 2600 1900 2    50   ~ 0
+Text Label 3800 2600 0    50   ~ 0
 encoder3b
 Text Label 2600 2000 2    50   ~ 0
 encoder4a
